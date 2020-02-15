@@ -13,3 +13,5 @@
 
 ## conenctor pins
 ![pinout](pinout.jpg)
+
+(picture taken from http://rrasic.blogspot.com/2019/12/8-pin-mini-usb-and-av-cable-camera.html)
